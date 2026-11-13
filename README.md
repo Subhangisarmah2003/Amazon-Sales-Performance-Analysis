@@ -1,4 +1,4 @@
-# 📊 Amazon Sales Performance Analysis | Excel Dashboard
+#  Amazon Sales Performance Analysis | Excel Dashboard
 
 ### Turning Raw Data into Meaningful Business Insights
 
@@ -8,7 +8,7 @@ This project focuses on analyzing sales performance using Microsoft Excel. It fe
 
 The project transforms raw sales data into meaningful business insights using Pivot Tables, Pivot Charts, KPI calculations, and interactive slicers.
 
-## 🎯 Project Objectives
+##  Project Objectives
 
 - Analyze overall sales and profit performance.
 - Identify high-performing product categories.
@@ -18,7 +18,7 @@ The project transforms raw sales data into meaningful business insights using Pi
 - Track monthly sales trends.
 - Present key business metrics through an interactive dashboard.
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 - Microsoft Excel
 - Pivot Tables & Pivot Charts
@@ -28,7 +28,7 @@ The project transforms raw sales data into meaningful business insights using Pi
 - Data Analysis
 - Dashboard Development
 
-## 📈 Key Performance Indicators (KPIs)
+##  Key Performance Indicators (KPIs)
 
 | KPI                 |   Value |
 | ------------------- | ------: |
@@ -39,7 +39,7 @@ The project transforms raw sales data into meaningful business insights using Pi
 | Profit Margin       |  14.76% |
 | Average Order Value |  ₹16.6K |
 
-## 📊 Dashboard Features
+##  Dashboard Features
 
 - **Monthly Sales Analysis:** Tracks monthly sales trends and performance.
 - **Category Performance:** Compares sales across different product categories.
@@ -48,7 +48,7 @@ The project transforms raw sales data into meaningful business insights using Pi
 - **Regional Performance:** Analyzes profitability across different regions.
 - **Customer Analysis:** Examines purchasing patterns across customer segments.
 
-## 📂 Project Structure
+##  Project Structure
 
 The Excel workbook contains five worksheets:
 
@@ -58,7 +58,7 @@ The Excel workbook contains five worksheets:
 4. **KPI:** Key performance indicators and calculations.
 5. **Data_Dictionary:** Field descriptions, data types, and additional information.
 
-## 🔍 Key Analytical Areas
+##  Key Analytical Areas
 
 - Monthly sales performance.
 - Category-wise sales analysis.
@@ -67,7 +67,7 @@ The Excel workbook contains five worksheets:
 - Customer type analysis.
 - Payment method distribution.
 
-## 💡 Key Learnings
+##  Key Learnings
 
 - Gained practical experience in Excel-based data analysis.
 - Developed skills in creating and managing Pivot Tables.
@@ -75,11 +75,9 @@ The Excel workbook contains five worksheets:
 - Built interactive dashboards using Pivot Charts and Slicers.
 - Improved data visualization and analytical storytelling skills.
 
-## 📸 Dashboard Preview
 
 
-
-## 👩‍💻 About Me
+##  About Me
 
 **Shubhangi Sarmah**
 
@@ -87,14 +85,14 @@ Aspiring Data Analyst | Data Analytics Enthusiast
 
 Passionate about exploring data, identifying trends, and transforming raw information into meaningful business insights.
 
-## 🤝 Let's Connect
+##  Let's Connect
 
-- 💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/subhangi-sarmah-b68530413/)
-- 💻 **GitHub:** [Subhangisarmah2003](https://github.com/Subhangisarmah2003)
+-  **LinkedIn:** [Connect with me](https://www.linkedin.com/in/subhangi-sarmah-b68530413/)
+-  **GitHub:** [Subhangisarmah2003](https://github.com/Subhangisarmah2003)
 
 ---
 
-⭐ If you find this project interesting, feel free to explore the repository!
+ If you find this project interesting, feel free to explore the repository!
 
-### Learn. Analyze. Visualize. Grow.
+
 
